@@ -4,4 +4,10 @@
         # . . . # 
         . # . # . 
         . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="jnln|p.|4is!$HV%|$gD" x="303" y="8"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="|:K/T*YdThy)N|/ySZ(X"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        # . # . # 
+        # # . # #
         `</field></block></statement></block></xml>
